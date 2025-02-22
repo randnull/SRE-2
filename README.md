@@ -52,7 +52,7 @@ func GetData(url string) (string, error) {
 Пример работы:
 
 Запускаем тестовый сервер (server.go)
-Сервер случайно (50%) отдает либо BadRequest, либо OK.
+Сервер случайно (50%) отдает либо BadGateway, либо OK.
 
 ```
 func ExampleHandler(w http.ResponseWriter, req *http.Request) {
