@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"math/rand"
 	"net/http"
@@ -9,7 +10,9 @@ import (
 func ExampleHandler(w http.ResponseWriter, req *http.Request) {
 	if rand.Int()%10 < 5 {
 		w.WriteHeader(http.StatusBadGateway)
+		return
 	}
+	fmt.Fprintf(w, "Message from server!")
 	w.WriteHeader(http.StatusOK)
 }
 

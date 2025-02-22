@@ -1,0 +1,308 @@
+2025/02/23 00:12:16 [INFO] Success request!
+[INFO] count of errors: 0
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:17 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:18 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:19 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:20 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:21 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:12:22 [ERROR] error with request
+
+[INFO] count of errors: 3
+2025/02/23 00:12:23 [CB] Change CircuitBreaker state from Closed to Open
+2025/02/23 00:12:23 [ERROR] error with request
+
+[INFO] count of errors: 3
+2025/02/23 00:12:24 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:25 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:26 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:27 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:28 [INFO] request not allowed. Open State
+2025/02/23 00:12:29 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+
+[INFO] count of errors: 3
+2025/02/23 00:12:30 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:31 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:32 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:12:33 [INFO] request not allowed. Open State
+2025/02/23 00:12:34 [CB] Change CircuitBreaker state from Open to HalfOpen
+2025/02/23 00:12:34 [INFO] Success request!
+2025/02/23 00:12:34 [CB] Change CircuitBreaker state from HalfOpen to Closed
+
+[INFO] count of errors: 0
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:35 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:12:36 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:37 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:38 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:39 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:12:40 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:12:41 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:12:42 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:12:43 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:12:44 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:45 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:12:46 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:47 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:48 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:12:49 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:50 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:51 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:52 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:53 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:54 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:55 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:12:56 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:57 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:12:58 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:12:59 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:00 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:13:01 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:02 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:13:03 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:13:04 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:13:05 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:06 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:13:07 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:13:08 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:09 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:13:10 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:13:11 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:12 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:13:13 [ERROR] error with request
+
+[INFO] count of errors: 3
+2025/02/23 00:13:14 [CB] Change CircuitBreaker state from Closed to Open
+2025/02/23 00:13:14 [ERROR] error with request
+
+[INFO] count of errors: 3
+2025/02/23 00:13:15 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:16 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:17 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:18 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:19 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:20 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:21 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:22 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:23 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:24 [INFO] request not allowed. Open State
+2025/02/23 00:13:25 [CB] Change CircuitBreaker state from Open to HalfOpen
+2025/02/23 00:13:25 [CB] Change CircuitBreaker state from HalfOpen to Open
+2025/02/23 00:13:25 [ERROR] error with request
+
+[INFO] count of errors: 1
+
+[INFO] count of errors: 1
+2025/02/23 00:13:26 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:27 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:28 [INFO] request not allowed. Open State
+2025/02/23 00:13:29 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:30 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+
+[INFO] count of errors: 1
+2025/02/23 00:13:31 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:32 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:33 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:34 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 1
+2025/02/23 00:13:35 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 0
+2025/02/23 00:13:36 [CB] Change CircuitBreaker state from Open to HalfOpen
+2025/02/23 00:13:36 [INFO] Success request!
+2025/02/23 00:13:36 [CB] Change CircuitBreaker state from HalfOpen to Closed
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:37 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:13:38 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:39 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:13:40 [ERROR] error with request
+
+[INFO] count of errors: 0
+2025/02/23 00:13:41 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:13:42 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:13:43 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 0
+2025/02/23 00:13:44 [INFO] Success request!
+Message from server!
+[INFO] count of errors: 1
+2025/02/23 00:13:45 [ERROR] error with request
+
+[INFO] count of errors: 2
+2025/02/23 00:13:46 [ERROR] error with request
+
+[INFO] count of errors: 3
+2025/02/23 00:13:47 [CB] Change CircuitBreaker state from Closed to Open
+2025/02/23 00:13:47 [ERROR] error with request
+
+[INFO] count of errors: 3
+2025/02/23 00:13:48 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:49 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:50 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:51 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:52 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:53 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:54 [INFO] request not allowed. Open State
+
+[INFO] count of errors: 3
+2025/02/23 00:13:55 [INFO] request not allowed. Open State

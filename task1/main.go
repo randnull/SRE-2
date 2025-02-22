@@ -60,7 +60,7 @@ func main() {
 	answer, err := GetData(SiteUrl)
 
 	if err != nil {
-		log.Fatal(err)
+		log.Println(err)
 	}
 
 	fmt.Println(answer)
