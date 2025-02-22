@@ -65,4 +65,11 @@ func ExampleHandler(w http.ResponseWriter, req *http.Request) {
 
 Возможные результаты:
 
+Успешно со второй попытки:
+![Иллюстрация к проекту](https://github.com/randnull/SRE-2/blob/main/images/ex1.png)
 
+Не успешно:
+![Иллюстрация к проекту](https://github.com/randnull/SRE-2/blob/main/images/ex2.png)
+
+Успешно сразу:
+![Иллюстрация к проекту](https://github.com/randnull/SRE-2/blob/main/images/ex3.png)
