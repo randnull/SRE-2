@@ -10,9 +10,8 @@ import (
 	"time"
 )
 
-var repeatCountParam int = 3
-
 func GetData(url string) (string, error) {
+	repeatCountParam := 3
 	allowedStatusCode := []int{500, 502, 503, 504}
 
 	for attemptNumber := 0; attemptNumber < repeatCountParam; attemptNumber++ {
