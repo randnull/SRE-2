@@ -1,6 +1,6 @@
 # Задача 1: Надежный клиент для внешнего API
 
-Решение находится в папке task1
+## Решение находится в папке task1
 
 GetData:
 ```
@@ -78,7 +78,7 @@ func ExampleHandler(w http.ResponseWriter, req *http.Request) {
 
 # Задача 2: Реализация Circuit Breaker для клиента API
 
-Решение находится в папке task2
+## Решение находится в папке task2
 
 GetDataWithCircuitBreaker:
 ```
